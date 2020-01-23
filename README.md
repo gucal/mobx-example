@@ -14,7 +14,7 @@
 
   **configure**
   
-  `configure içerisine enforceActions: “observed” yapılırsa action kullanımı zorunlu hale gelir.`
+  `configure içerisine enforceActions: “”  action kullanımı zorunlu hale gelir.`
 
 **@computed**
 
